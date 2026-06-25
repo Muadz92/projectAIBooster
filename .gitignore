@@ -37,3 +37,5 @@ out/
 *.out
 *.app
 
+/build/
+ai booster
